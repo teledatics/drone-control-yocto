@@ -1,0 +1,24 @@
+[submodule "sources/meta-freescale"]
+	path = sources/meta-freescale
+	url = https://github.com/Freescale/meta-freescale.git
+	branch = kirkstone
+[submodule "sources/meta-freescale-3rdparty"]
+	path = sources/meta-freescale-3rdparty
+	url = https://github.com/Freescale/meta-freescale-3rdparty.git
+	branch = kirkstone
+[submodule "sources/meta-freescale-distro"]
+	path = sources/meta-freescale-distro
+	url = https://github.com/Freescale/meta-freescale-distro.git
+	branch = master
+[submodule "sources/meta-openembedded"]
+	path = sources/meta-openembedded
+	url = https://github.com/openembedded/meta-openembedded.git
+	branch = kirkstone
+[submodule "sources/poky"]
+	path = sources/poky
+	url = https://git.yoctoproject.org/poky/
+	branch = kirkstone
+[submodule "sources/meta-teledatics"]
+	path = sources/meta-teledatics
+	url = https://github.com/teledatics/meta-teledatics
+	branch = main
